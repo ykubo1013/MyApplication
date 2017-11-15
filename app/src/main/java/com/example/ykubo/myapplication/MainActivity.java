@@ -10,6 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 //masterを変更PCから
 //masterを変更PCから2回目
+//masterをmacから変更
 
 public class MainActivity extends AppCompatActivity {
 
