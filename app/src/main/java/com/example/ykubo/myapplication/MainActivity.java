@@ -18,6 +18,7 @@ import android.view.MenuItem;
 //branchにPCから1回目
 //branchにmacから1回目
 //masterに反映する
+//branchだけに入ってる
 
 public class MainActivity extends AppCompatActivity {
 
